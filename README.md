@@ -40,6 +40,8 @@
  ## Exatras 
  - sketches and photography
  <img src = "https://user-images.githubusercontent.com/53532851/94373992-a8f5d400-0126-11eb-9146-494618d6dd26.png" >
+ 
  <br>
+ 
  <img src = "https://user-images.githubusercontent.com/53532851/94374022-e8bcbb80-0126-11eb-898c-9c54ed6e4b65.png">
  
