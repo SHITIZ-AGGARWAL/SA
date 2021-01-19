@@ -4,7 +4,6 @@
 `More Responsive`
 `Blog Page`
 `Designs Page`
-`Bug fixes`
 `Redesigning sketches page and contact page`
 
 ##  A basic site to showcase my interests and skills
